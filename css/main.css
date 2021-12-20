@@ -1,0 +1,32 @@
+.section{
+    background-color: #004147;
+}
+
+.mycard{
+    background-color: #022F34;
+    width: 325px;
+}
+
+.card__plus{
+   bottom: -22px;
+}
+
+.card__plus:active{
+    background-color: #81CDCD!important;
+    color: #004147;
+}
+
+.card__link{
+    bottom: 70px;
+    right: 120px;
+}
+
+.card__link2{
+    bottom: 70px;
+    left: 120px;
+}
+
+.mycol{
+    background-color: #1E88E5;
+    height: 100px;
+}
